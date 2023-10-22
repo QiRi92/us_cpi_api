@@ -1,2 +1,5 @@
-# us_cpi_api
-Get Consumer Price Index data using python by refer their own API
+# Abstract
+Get United States Consumer Price Index data by using python by refer their own public API
+
+# References
+(https://www.bls.gov/developers/api_python.htm#python2)https://www.bls.gov/developers/api_python.htm#python2
